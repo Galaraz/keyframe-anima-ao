@@ -2,4 +2,4 @@
 
 
 aprendendo um pouco sobre keyframes  
-creditos do video do youtube
+creditos: video do youtube
